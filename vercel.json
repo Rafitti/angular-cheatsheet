@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/angular-cheatsheet.html" }
+    { "source": "/", "destination": "/guia-angular-niveles.html" }
   ]
 }
